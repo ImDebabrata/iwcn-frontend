@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input[type="text"] {
+  border: none;
+  padding: 5px;
+  width: calc(100vw / 8);
+  /* width: 100px; */
+}
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: left;
+}
+th {
+  font-size: 14px;
+}
