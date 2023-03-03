@@ -17,6 +17,9 @@ td {
   border-collapse: collapse;
   text-align: left;
 }
+table {
+  margin: auto;
+}
 th {
   font-size: 14px;
 }
